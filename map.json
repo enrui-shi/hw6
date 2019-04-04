@@ -1,9 +1,9 @@
 {
     "properties": {
-      "movies.rank": {
+      "rank": {
         "type": "long"
       },
-    "movies.title": {
+    "title": {
           "type": "text"
         }
       }
