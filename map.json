@@ -1,0 +1,13 @@
+{
+    "properties": {
+      "movie.rank": {
+        "type": "long"
+      }
+    },
+    "movie.title": {
+        "rank": {
+          "type": "text"
+        }
+      }
+  }
+  
